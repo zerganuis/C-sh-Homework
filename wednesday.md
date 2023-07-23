@@ -1,3 +1,3 @@
 Hello World!
 
-*Get* started with a control version now!
+*Get* started with a **control version** now!
