@@ -8,18 +8,18 @@ Console.Write("Введите второе целое число: ");
 int secondNumber = int.Parse(Console.ReadLine()!);
 Console.Write("Введите третье целое число: ");
 int thirdNumber = int.Parse(Console.ReadLine()!);
-int max=0;
-if(firstNumber<secondNumber)
+int max = 0;
+if (firstNumber < secondNumber)
 {
-max=secondNumber;
+    max = secondNumber;
 }
-if(firstNumber<thirdNumber)
+if (firstNumber < thirdNumber)
 {
-max=thirdNumber;
+    max = thirdNumber;
 }
-if(firstNumber>thirdNumber)
+if (firstNumber > thirdNumber)
 {
-    max=firstNumber;
+    max = firstNumber;
 }
 
 Console.WriteLine($"Максимальное число равно {max}");
