@@ -1,0 +1,15 @@
+D:\Git_projects\S1_HW\program_2\bin\Debug\net7.0\program_2.exe
+D:\Git_projects\S1_HW\program_2\bin\Debug\net7.0\program_2.deps.json
+D:\Git_projects\S1_HW\program_2\bin\Debug\net7.0\program_2.runtimeconfig.json
+D:\Git_projects\S1_HW\program_2\bin\Debug\net7.0\program_2.dll
+D:\Git_projects\S1_HW\program_2\bin\Debug\net7.0\program_2.pdb
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.csproj.AssemblyReference.cache
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.AssemblyInfoInputs.cache
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.AssemblyInfo.cs
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.csproj.CoreCompileInputs.cache
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.dll
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\refint\program_2.dll
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.pdb
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\program_2.genruntimeconfig.cache
+D:\Git_projects\S1_HW\program_2\obj\Debug\net7.0\ref\program_2.dll
