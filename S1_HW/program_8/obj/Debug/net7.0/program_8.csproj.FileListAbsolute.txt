@@ -1,0 +1,15 @@
+D:\Git_projects\S1_HW\program_8\bin\Debug\net7.0\program_8.exe
+D:\Git_projects\S1_HW\program_8\bin\Debug\net7.0\program_8.deps.json
+D:\Git_projects\S1_HW\program_8\bin\Debug\net7.0\program_8.runtimeconfig.json
+D:\Git_projects\S1_HW\program_8\bin\Debug\net7.0\program_8.dll
+D:\Git_projects\S1_HW\program_8\bin\Debug\net7.0\program_8.pdb
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.csproj.AssemblyReference.cache
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.AssemblyInfoInputs.cache
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.AssemblyInfo.cs
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.csproj.CoreCompileInputs.cache
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.dll
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\refint\program_8.dll
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.pdb
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\program_8.genruntimeconfig.cache
+D:\Git_projects\S1_HW\program_8\obj\Debug\net7.0\ref\program_8.dll
